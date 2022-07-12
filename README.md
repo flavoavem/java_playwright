@@ -25,4 +25,4 @@
 * mvn compile 
 * mvn exec:java -Dexec.mainClass="org.example.Example"
 * or
-* mvn exec:java -Dexec.mainClass="org.example.ANOTHER TEST]"
+* mvn exec:java -Dexec.mainClass="org.example.ANOTHER TEST"
