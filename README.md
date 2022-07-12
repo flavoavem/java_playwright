@@ -16,7 +16,6 @@
 * export JAVA_HOME=/home/linuxbrew/.linuxbrew/Cellar/openjdk/18.0.1.1/libexec
 * export M2_HOME=/opt/maven
 * export MAVEN_HOME=/opt/maven
-* export PATH=${M2_HOME}/bin:${PATH}
 
 ## TEST LOCATION:
 * /src/main/java/org/example/*
@@ -25,4 +24,4 @@
 * mvn compile 
 * mvn exec:java -Dexec.mainClass="org.example.Example"
 * or
-* mvn exec:java -Dexec.mainClass="org.example.ANOTHER TEST"
+* mvn exec:java -Dexec.mainClass="org.example.SELECT ANOTHER TEST"
