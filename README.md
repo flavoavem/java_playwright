@@ -18,7 +18,7 @@
 * export MAVEN_HOME=/opt/maven
 
 ## TEST LOCATION:
-* /src/main/java/org/example/*
+* /src/main/java/org/example/
 
 ## TEST EXECUTION:
 * mvn compile 
