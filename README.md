@@ -1,4 +1,4 @@
-# Playwright API using Java in Visual Studio Code
+# Playwright API for Java with Visual Studio Code
 
 ## ENVIRONMENT VARIABLES:
 * JAVA_HOME
@@ -23,5 +23,3 @@
 ## TEST EXECUTION:
 * mvn compile 
 * mvn exec:java -Dexec.mainClass="org.example.Example"
-* or
-* mvn exec:java -Dexec.mainClass="org.example.SELECT ANOTHER TEST"
