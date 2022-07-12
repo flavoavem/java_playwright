@@ -1,4 +1,4 @@
-# Playwright API using Java
+# Playwright API using Java in Visual Studio Code
 
 ## ENVIRONMENT VARIABLES:
 * JAVA_HOME
